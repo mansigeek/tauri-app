@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "notes": "Bug fixes and performance improvements.",
+    "pub_date": "2025-03-27T12:00:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "BASE64_SIGNATURE_HERE",
+            "url": "https://yourdomain.com/releases/YourAppName_0.1.0_x64_en-US.msi"
+        }
+    }
+}
