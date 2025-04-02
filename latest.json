@@ -1,11 +1,12 @@
 {
-    "version": "2.0.0",
-    "notes": "Bug fixes and performance improvements.",
-    "pub_date": "2025-03-27T12:00:00Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "BASE64_SIGNATURE_HERE",
-            "url": "https://yourdomain.com/releases/YourAppName_0.1.0_x64_en-US.msi"
-        }
+  "version": "2.0.0",
+  "notes": "Tauri updater",
+  "pub_date": "2020-06-22T19:25:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWFFrMkpTeUJuYllldEx3RDFHVktDVW5tUW1mU0Jwdm8vSXJ4OGxhQ21WSmNoQndQRDBzbmU2OE0zYWZwQWZWeFZuTWRteHJ4Wm1tb0lOM0V5Q3dReDM4dGpGSWczWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzNTc0MDQxCWZpbGU6dGF1cmktdXBkYXRlci1hcHBfMi4wLjBfeDY0X2VuLVVTLm1zaQp2NVNyNGswK0lLS2Zjd0RjYTBFVzZlUGdFNmNyTnBYNFowVkR6cWIxSWJUWlpRVVhiSFRuRW5rYkxudDdmaklMNkJka3pWamJDMWVsUzhmQVNKM0pCUT09Cg==",
+      "url": "https://github.com/mansigeek/tauri-app/releases/download/2.0.0/tauri-updater-app_2.0.0_x64_en-US.msi"
+      
     }
+  }
 }
