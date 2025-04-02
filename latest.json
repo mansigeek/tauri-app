@@ -1,11 +1,11 @@
 {
-  "version": "4.0.0",
+  "version": "2.0.1",
   "notes": "Auto-generated release",
-  "pub_date": "2025-04-01T07:51:43Z",
+  "pub_date": "2025-04-02T07:51:05Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/mansigeek/tauri-app/releases/download/v4.0.0/Casino.Stars_4.0.0_x64_en-US.msi"
+      "url": "https://github.com/mansigeek/tauri-app/releases/download/v2.0.1/Casino.Stars_2.0.1_x64_en-US.msi"
     }
   }
 }
